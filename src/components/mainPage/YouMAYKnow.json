@@ -1,0 +1,13 @@
+[{
+    "name":"Steve Jobs",
+    "title":"CEO of Apple",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIgQuUXqjuyAcWDCyro7eE2hFh-qZ2m9UqEw&usqp=CAU"
+},{
+    "name":"Ryan Roslansky",
+    "title":"CEO of Linkedin",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXWFbrlTX5kBAY_-WKca69WYzhydpvktpcw&usqp=CAU"
+},{
+    "name":"Dylan Field",
+    "title":"CEO of Figma",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlKxnM2NKjlD_NaoXoZJjQ9rIroFdTPDL1Q&usqp=CAU"
+}]
